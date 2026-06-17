@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A visually polished, modern, tactile Material 3 calculator app with persistent scrollable history of and seamless edge-to-edge styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
